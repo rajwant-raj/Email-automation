@@ -1,4 +1,7 @@
-###📧 Email Automation Agent using Google Gemini + Gradio
+📧 Email Automation Agent using Google Gemini + Gradio
+
+---
+
 
 This project is an intelligent AI-powered email assistant that generates and sends professional emails based on user prompts using the free Google Gemini API. It includes a modern Gradio interface and works seamlessly on Google Colab.
 

@@ -1,4 +1,5 @@
-📧 Email Automation Agent using Google Gemini + Gradio
+# 📧 Email Automation Agent using Google Gemini + Gradio
+
 
 ---
 
